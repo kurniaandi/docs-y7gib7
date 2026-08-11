@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-0o03vw.salamduit.sbs/sitemap.xml
